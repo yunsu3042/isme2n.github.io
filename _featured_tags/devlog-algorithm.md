@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Algorithm
-slug: video 
-category: devlog
+title: Algorithm 
+slug: algorithm 
+category: video 
 menu: false
 order: 2
 ---
